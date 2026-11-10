@@ -1,7 +1,7 @@
 # OSG-radar
 本项目是opengl OSG实现飞机模型在真实地图上飞行的3D效果的桌面应用。
 # 效果图
-<img width="1266" height="744" alt="录制_2026_11_10_14_58_21_440" src="https://github.com/user-attachments/assets/62b17ba0-5557-47af-98f2-4f9df2b9b4fc" />
+<img width="1266" height="744" alt="录制_2026_11_10_14_58_21_440" src="https://github.com/user-attachments/assets/62b17ba0-5557-47af-98f2-4f9df2b9b4fc" /><br>
 # 技术特定
 - 3D飞机模式加载<br>
 - china.geo.json地图数据加载<br>
